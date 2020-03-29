@@ -1,0 +1,5 @@
+function loopLoading(){
+
+	load.afficher();
+	
+}
